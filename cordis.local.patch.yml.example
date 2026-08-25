@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-fitness-local
+      name: /absolute/path/to/dsh-fitness/lib/index.js
